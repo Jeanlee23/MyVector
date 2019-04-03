@@ -1,0 +1,3 @@
+D:/UTEC/CICLO III/POO II/Lab/Tasks/Task01/MyVector/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/UTEC/CICLO III/POO II/Lab/Tasks/Task01/MyVector/cmake-build-debug/CMakeFiles/MyVector.dir
+D:/UTEC/CICLO III/POO II/Lab/Tasks/Task01/MyVector/cmake-build-debug/CMakeFiles/rebuild_cache.dir

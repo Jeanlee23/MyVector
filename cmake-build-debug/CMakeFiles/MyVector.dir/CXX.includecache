@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/UTEC/CICLO III/POO II/Lab/Tasks/Task01/MyVector/Vector.cpp
+Vector.h
+D:/UTEC/CICLO III/POO II/Lab/Tasks/Task01/MyVector/Vector.h
+
+D:/UTEC/CICLO III/POO II/Lab/Tasks/Task01/MyVector/Vector.h
+
+D:/UTEC/CICLO III/POO II/Lab/Tasks/Task01/MyVector/main.cpp
+iostream
+-
+vector
+-
+cassert
+-
+Vector.h
+D:/UTEC/CICLO III/POO II/Lab/Tasks/Task01/MyVector/Vector.h
+
