@@ -17,7 +17,8 @@ namespace UTEC {
             p[_size]=value;
             delete []_arr;
             _arr=p;
-        } _size++;
+        }
+        _size++;
     }
 
     void vector::pop_back() {
